@@ -1,6 +1,6 @@
 ![](https://itmg.nl/wp-content/uploads/2020/03/COBIT2019.jpg)
 
-# Cobit 2019 Framework
+# [Cobit 2019 Framework](https://www.youtube.com/watch?v=v1Q-Zxf8rHQ)
 ## Wat is Cobit 19?
 Cobit 19 is een governance framework voor het inrichten van IT Goverance. Cobit is in tegenstelling tot ITIL meer gericht op beheersing van ICT en minder op de gedetailleerde inrichting van IT processen.  
 
@@ -15,17 +15,24 @@ Cobit 2019 Het bestaat uit 40 Processen welke verspreid zijn over 5 domeinen, de
 4. Deliver, Service and Support
 5. Monitor, Evaluate and Assess
 
+Bronnen:
 https://pinkacademy.nl/wp-content/uploads/2021/03/COBIT-2019-Pink-Education.pdf
 
 https://itmg.nl/training/informatie/best-practices/cobit-best-practice/
 
 ## Hoe dit bijdraagt aan de governance van cloud processen, componenten, services, business en de mensen die ermee werken?
-Cobit 2019 draagt bij aan de processen, componenten, services, business en de mensen die ermee werken door het geven van richtlijnen van de beheersing van ICT. Door richtlijnen te geven op basis van bedrijfsdoelstellingen kan dat bijdragen aan Cloud processen, omdat deze op een betere en overzichtelijke manier kunnen worden ingericht. Dit heeft indirect ook invloed op de componenten en services die worden gebruikt binnen een business. Door het zetten van richtlijnen van bijvoorbeeld het gebruik van ITIL, krijg je dat er componenten en services worden gebruikt die gebruik maken van een ITIL werk wijze. Deze invloed zal zich ook uitbreiden naar de mensen die met deze services moeten werken. Mensen zullen zich gaan aanpassen aan deze werkwijze, waardoor de business hier ook de positieve gevolgen van gaat zien. Daarnaast is het voor het bedrijf heel makkelijk te controleren of ze de beheersing van ICT correct uitvoeren.
+Cobit 2019 draagt bij aan de processen, componenten, services, business en de mensen die ermee werken door het geven van richtlijnen van de beheersing van ICT. Door richtlijnen te geven op basis van bedrijfsdoelstellingen kan dat bijdragen aan Cloud processen, omdat deze op een betere en overzichtelijke manier kunnen worden ingericht. Dit heeft indirect ook invloed op de componenten en services die worden gebruikt binnen een business. Door het zetten van richtlijnen van bijvoorbeeld het gebruik van een bepaalde werk methode, krijg je dat er componenten en services worden gebruikt die gebruik maken van deze zelfde werk wijze. Deze invloed zal zich ook uitbreiden naar de mensen die met deze services moeten werken. Mensen zullen zich gaan aanpassen aan deze werkwijze, waardoor de business hier ook de positieve gevolgen van gaat zien. Daarnaast is het voor het bedrijf heel makkelijk te controleren of ze de beheersing van ICT correct uitvoeren. De werkwijze is uniform en zorgt ervoor dat voor iedereen duidelijk is hoe het bedrijf werkt en waar het bedrijf aan toe is. 
+ 
+Door deze richtlijnen op een rijtje te zetten kan je goed zien dat ze bijdrage leveren aan alle aspecten binnen een bedrijf.
 
 ## Worden alle aspecten die met Governance te maken hebben afgedekt?
 Cobit 2019 dient als een Governance Framework om ICT en bedrijfsdoelstellingen te realiseren. Dit doet Cobit 2019 door het geven van standaarden voor bijvoorbeeld: meetinstrumenten, processen en best practices. 
  
 Een aspect van Cloud Governance is het kijken of je het goede goed doet. En dit ook kunnen aantonen, door middel van werkwijze of inrichting. Dit sluit aan op de Cobit 2019 Governance Framework. Door richtlijnen te geven op bedrijfsdoelstellingen zorg je ervoor dat de doelstellingen op de juisten manieren worden gehaald. Hierdoor is het aspect het goede goed en dat aantonen afgedekt. Cobit 2019 geeft alleen geen richtlijnen op werkwijze. Hierdoor kan je met Cobit 2019 alleen niet checken of je op de juiste manier werkt. Cobit 2019 geeft wel weer richtlijnen over risicobeheersing. 
+ 
+Verder heeft Cobit 2019 het Cloud Governance aspect responsibility afgedekt. Dit doet het doordat Cobit 2019 gaat over de bedrijfsdoelstellingen. Dit gaat dus ook over wie verantwoordelijk is over welk aspect. Door deze richtlijnen goed te hebben afgedekt zorgt Cobit 2019 ervoor dat op een makkelijke en overzichtelijke manier de aansprakelijke persoon kan aanwijzen. 
+ 
+Cobit 2019 dekt dus veel aspecten af maar niet alles. 
 
 ## Wat zijn de sterke punten en wat is minder goed?
 De sterken punten van Cobit is dat echt een aanvulling probeert te zijn en het niet het zoveelste ITIL of ISO framework probeert te zijn. Het is meer gericht op (IT) managers en daardoor ook toegankelijker. 
